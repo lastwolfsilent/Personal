@@ -2,6 +2,7 @@ package shopping;
 
 public class Food
 {
+	//Test 1 2 3
 	private String name;
 	private String location;
 		

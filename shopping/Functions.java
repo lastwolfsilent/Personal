@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Functions
 {
+	//Test 1 2 3
 	private ArrayList<Food> foodList = new ArrayList<Food> ();
 	private Scanner scanner = new Scanner(System.in);
 

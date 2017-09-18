@@ -13,6 +13,7 @@ import java.util.Scanner;
 
 public class Functions
 {
+	//Test 1 2 3
 	private ArrayList<Recipe> recipeList = new ArrayList<> ();
 	private Scanner scanner = new Scanner(System.in);
 	

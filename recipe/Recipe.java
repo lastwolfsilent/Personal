@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Recipe
 {
+	//Test 1 2 3
 	private String name;
 	private String type;
 	private ArrayList<String> ingredients;
